@@ -1,0 +1,11 @@
+.idea/
+*.~
+*.tmp
+*.class
+*.cache
+*.log
+.cache/
+.history/
+project/boot/
+project/plugins/project/
+target/
